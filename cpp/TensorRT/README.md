@@ -1,4 +1,4 @@
-# yoloTRT
+# yolo TensorRT
 
 主要给Nvidia Jetson系列嵌入式设备使用的，程序使用tensorrt推理模型，并将结果发送到服务器，接收demo见DataServer.py。
 网络输入输出适配于yolox。
