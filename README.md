@@ -1,4 +1,4 @@
-# YOLO_embedded： 嵌入式部署YOLO算法
+# YOLO_embedded： YOLO算法快速嵌入式部署
 - for Ubuntu
 - OpenVINO & TensorRT
 
