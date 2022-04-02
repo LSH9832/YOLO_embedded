@@ -19,8 +19,7 @@ output [m, 5 + n] matrix → [m: total num of grid cell, 5 + n: cx, cy, w, h, co
 
 ## 安装
 ```
-git clone https://github.com/LSH9832/yoloTRT.git
-cd yolo_result_provider && sh setup.sh
+sh setup.sh
 ```
 
 ## 使用
