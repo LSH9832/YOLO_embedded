@@ -16,7 +16,7 @@ cd ..
 
 ## 运行demo
 
-先打开main.py修改一下相应的参数，比如视频源，置信度阈值、MNS阈值、是否使用多进程进行推理任务等
+先打开main.py修改一下相应的参数，比如视频源，置信度阈值、MNS阈值、是否使用多进程进行推理任务、使用OpenVINO还是TensorRT等
 
 ```
 python3 main.py
