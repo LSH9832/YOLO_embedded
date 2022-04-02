@@ -1,0 +1,5 @@
+torch>=1.7
+torchvision
+pycuda
+opencv-python>=4.2.1.30
+numpy
