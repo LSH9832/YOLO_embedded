@@ -1,5 +1,8 @@
-# Preparing
+# 基於python的yolo算法嵌入式部署
+## 極簡代碼，結構清晰，修改方便，快速部署
 
+
+## Preparing
 
 ```
 pip3 install -r requirements.txt
@@ -9,7 +12,7 @@ python3 setup.py install
 cd ..
 ```
 
-# demo
+## demo
 
 first modify main.py with your model, source, and other settings
 
