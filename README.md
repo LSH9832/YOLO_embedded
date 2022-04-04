@@ -1,5 +1,6 @@
 # YOLO_embedded： YOLO算法快速嵌入式部署
 - for Ubuntu
+- Based on [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 - OpenVINO & TensorRT
 
 本项目提供c++和python两种语言，详情请见各个文件夹下的README.md
